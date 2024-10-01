@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm an engineering manager / scrum master / backend engineer. [<img width="18" src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"> #buymeacoffee](https://www.buymeacoffee.com/MxShun), pls!
+I'm an engineering manager / scrum master / backend engineer. [<img alt="buy-me-a-coffee" width="18" src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg"> #buymeacoffee](https://www.buymeacoffee.com/MxShun), pls!
 
 ## Stats
-<img alt="Top Langs" height="200" src="https://github-readme-stats-mxshun.vercel.app/api?username=MxShun&theme=solarized-dark&hide_title=true&show_icons=true&count_private=true&number_format=long" /> <img alt="github stats" height="200" src="https://github-readme-stats-mxshun.vercel.app/api/top-langs/?username=MxShun&theme=solarized-dark&cache_seconds=86400&hide=ASP,Hack&hide_title=true&layout=compact&langs_count=8" />
+<img alt="github-readme-stats" height="160" src="https://github-readme-stats-mxshun.vercel.app/api?username=MxShun&theme=solarized-dark&hide_title=true&show_icons=true&count_private=true&number_format=long" /> <img alt="github-readme-stats-top-langs" height="160" src="https://github-readme-stats-mxshun.vercel.app/api/top-langs?username=MxShun&theme=solarized-dark&cache_seconds=86400&hide=ASP,Hack&hide_title=true&layout=compact&langs_count=8" />
 
 ## Certs
 - 応用情報技術者 Applied Information Technology Engineer
