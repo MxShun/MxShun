@@ -14,7 +14,7 @@ I'm an engineering manager / scrum master / backend engineer. [<img alt="buy-me-
 - Professional Scrum Master I
 - 日本安全食料料理協会コーヒーソムリエ Coffee Sommelier
 - 食品衛生責任者 Food Sanitation Manager
-<br />[Learn more...](https://mxshun.github.io/honor)
+<br />[Learn more...](https://mxshun.github.io/certs)
 
 ## Talks
 - 22/11/2023 生成AI活用による広告運用効率化・自動化の追求
@@ -23,9 +23,9 @@ I'm an engineering manager / scrum master / backend engineer. [<img alt="buy-me-
 <br />[Learn more...](https://mxshun.github.io/talks)
 
 ## Posts
-- 23/12/2022 私がやった Amazon S3 コストカット全ステップ - CyberAgent Developers Blog
+- 25/03/2026 複雑さに立ち向かう軽量Spec駆動開発 - Sansan Tech Blog
+- 04/10/2024 疎結合アーキテクチャにおける ogen-go/ogen によるプロデューササイドリクエストバリデーション - CyberAgent Developers Blog
 - 02/12/2021 Kotlin で DX がめちゃくちゃ改善されました - ASKUL Engineering BLOG
-- 17/07/2020 新卒入社 3 カ月目にしてプロジェクトリーダーをした話。 - Yahoo! JAPAN Tech Blog
 <br />[Learn more...](https://mxshun.github.io/posts)
 
 <!--
