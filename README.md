@@ -5,13 +5,14 @@ I'm an engineering manager / scrum master / backend engineer. [<img alt="buy-me-
 <img alt="github-readme-stats" height="160" src="https://github-readme-stats-mxshun.vercel.app/api?username=MxShun&theme=solarized-dark&hide_title=true&show_icons=true&count_private=true&number_format=long" /> <img alt="github-readme-stats-top-langs" height="160" src="https://github-readme-stats-mxshun.vercel.app/api/top-langs?username=MxShun&theme=solarized-dark&cache_seconds=86400&hide=ASP,Hack&hide_title=true&layout=compact&langs_count=8" />
 
 ## Certs
-- 応用情報技術者 Applied Information Technology Engineer
-- Oracle Certified Java Programmer, Gold SE 8
+- Certified ScrumMaster
+- Professional Scrum Master I
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
 - AWS Certified SysOps Administrator - Associate
-- Certified ScrumMaster
-- Professional Scrum Master I
+- Google Cloud Associate Cloud Engineer Certification
+- Oracle Certified Java Programmer, Gold SE 8
+- 応用情報技術者 Applied Information Technology Engineer
 - 日本安全食料料理協会コーヒーソムリエ Coffee Sommelier
 - 食品衛生責任者 Food Sanitation Manager
 <br />[Learn more...](https://mxshun.github.io/certs)
