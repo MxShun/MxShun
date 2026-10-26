@@ -4,7 +4,7 @@ I'm an engineering manager / scrum master / backend engineer. [<img alt="buy-me-
 
 ## Stats
 
-<img alt="github-readme-stats" height="160" src="https://github-readme-stats-mxshun.vercel.app/api?username=MxShun&theme=solarized-dark&hide_title=true&show_icons=true&count_private=true&number_format=long" /> <img alt="github-readme-stats-top-langs" height="160" src="https://github-readme-stats-mxshun.vercel.app/api/top-langs?username=MxShun&theme=solarized-dark&cache_seconds=86400&hide=ASP,Hack&hide_title=true&layout=compact&langs_count=8" />
+<img alt="github-readme-stats" height="160" src="https://github-stats-extended.vercel.app/api?username=MxShun&theme=solarized-dark&hide_title=true&show_icons=true&count_private=true&number_format=long" /> <img alt="github-readme-stats-top-langs" height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=MxShun&theme=solarized-dark&cache_seconds=86400&hide=ASP,Hack&hide_title=true&layout=compact&langs_count=8" />
 
 ## Certs
 
